@@ -1,6 +1,6 @@
 # gryszzz
 
-I build things around AI, code, automation, crypto, music, and the internet.
+I build things around AI, code, automation, crypto, music, graphics and the internet.
 
 Mostly interested in systems that feel alive — agents, tools, workflows, dashboards, research engines, strange interfaces, and ideas that turn into real products.
 
