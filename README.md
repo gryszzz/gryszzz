@@ -1,10 +1,6 @@
 # gryszzz
 
-I build things around AI, code, automation, crypto, music, graphics and the internet.
-
-Mostly interested in systems that feel alive : agents, tools, workflows, dashboards, research engines, strange interfaces, and ideas that turn into real products.
-
-I like building fast, learning in public, and connecting different worlds that usually stay separate.
+building , learning in public, and connecting different worlds that usually stay separate.
 
 <p align="left">
   <a href="https://t.me/MrMiyahgi">Telegram</a> •
@@ -34,7 +30,6 @@ I like building fast, learning in public, and connecting different worlds that u
 
 I’m into building useful systems from messy ideas.
 
-AI agents, crypto tooling, research automation, dev infrastructure, creative software, dashboards, scripts, experiments  whatever moves the idea closer to something real.
 
 Not trying to fit into one niche.  
 Just building the stack piece by piece.
