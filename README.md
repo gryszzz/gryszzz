@@ -2,7 +2,7 @@
 
 I build things around AI, code, automation, crypto, music, graphics and the internet.
 
-Mostly interested in systems that feel alive — agents, tools, workflows, dashboards, research engines, strange interfaces, and ideas that turn into real products.
+Mostly interested in systems that feel alive : agents, tools, workflows, dashboards, research engines, strange interfaces, and ideas that turn into real products.
 
 I like building fast, learning in public, and connecting different worlds that usually stay separate.
 
