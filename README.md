@@ -1,44 +1,78 @@
 # gryszzz
 
-Builder of AI agent systems, Kaspa research tooling, and crypto-native developer infrastructure.
+I build things around AI, code, automation, crypto, music, and the internet.
+
+Mostly interested in systems that feel alive — agents, tools, workflows, dashboards, research engines, strange interfaces, and ideas that turn into real products.
+
+I like building fast, learning in public, and connecting different worlds that usually stay separate.
 
 <p align="left">
-  <a href="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/releases/latest"><img alt="Kaspa skill release" src="https://img.shields.io/github/v/release/gryszzz/Kaspa-Ai-Agent-Skill?label=Kaspa%20Skill"></a>
-  <a href="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/actions/workflows/compatibility-matrix.yml"><img alt="Compatibility Matrix" src="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/actions/workflows/compatibility-matrix.yml/badge.svg"></a>
-  <a href="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/stargazers"><img alt="Kaspa skill stars" src="https://img.shields.io/github/stars/gryszzz/Kaspa-Ai-Agent-Skill?style=social"></a>
-  <a href="https://github.com/gryszzz/OpenThymos/stargazers"><img alt="OpenThymos stars" src="https://img.shields.io/github/stars/gryszzz/OpenThymos?style=social"></a>
+  <a href="https://t.me/MrMiyahgi">Telegram</a> •
+  <a href="https://instagram.com/kaleiidosco">Instagram</a> •
+  <a href="mailto:gryszzz6@gmail.com">Email</a> •
+  <a href="https://gravatar.com/anthonyleon3530">Gravatar</a>
 </p>
 
-## Current Focus
+<p align="left">
+  <a href="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/releases/latest">
+    <img alt="Kaspa skill release" src="https://img.shields.io/github/v/release/gryszzz/Kaspa-Ai-Agent-Skill?label=Kaspa%20Skill">
+  </a>
+  <a href="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/actions/workflows/compatibility-matrix.yml">
+    <img alt="Compatibility Matrix" src="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/actions/workflows/compatibility-matrix.yml/badge.svg">
+  </a>
+  <a href="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/stargazers">
+    <img alt="Kaspa skill stars" src="https://img.shields.io/github/stars/gryszzz/Kaspa-Ai-Agent-Skill?style=social">
+  </a>
+  <a href="https://github.com/gryszzz/OpenThymos/stargazers">
+    <img alt="OpenThymos stars" src="https://img.shields.io/github/stars/gryszzz/OpenThymos?style=social">
+  </a>
+</p>
 
-- Kaspa Toccata research intelligence, source monitoring, and AI-agent skill packaging.
-- OpenThymos, a unified AI execution runtime for coding agents across CLI, VS Code, terminal, and web surfaces.
-- KASPilot, a high-signal Kaspa operations console for mining and fleet control research.
-- Practical agent workflows that turn research into tested repos, releases, docs, and automation.
+---
 
-## Featured Work
+## About
 
-| Project | What it does |
+I’m into building useful systems from messy ideas.
+
+AI agents, crypto tooling, research automation, dev infrastructure, creative software, dashboards, scripts, experiments — whatever moves the idea closer to something real.
+
+Not trying to fit into one niche.  
+Just building the stack piece by piece.
+
+---
+
+## Things I’m exploring
+
+- AI agents that can use tools, remember context, and actually execute.
+- Research systems that organize scattered information into something usable.
+- Crypto-native infrastructure and protocol tooling.
+- Creative automation for music, edits, media, and internet-native projects.
+- Developer tools that make building faster and less chaotic.
+- Interfaces that feel clean, technical, and alive.
+
+---
+
+## Projects
+
+| Project | Description |
 |---|---|
-| [Kaspa-Ai-Agent-Skill](https://github.com/gryszzz/Kaspa-Ai-Agent-Skill) | Source-gated Kaspa protocol and Toccata research skill for Codex, OpenAI-style agents, Claude, Cursor, OpenClaw, Gemini, and generic LLM workflows. |
-| [OpenThymos](https://github.com/gryszzz/OpenThymos) | AI execution runtime for multi-surface coding agents and programmable capabilities. |
-| [KasPilot](https://github.com/gryszzz/KasPilot) | Kaspa mining and operations console concept for CPU, GPU, ASIC, and research workflows. |
+| [Kaspa-Ai-Agent-Skill](https://github.com/gryszzz/Kaspa-Ai-Agent-Skill) | AI-agent research skill for Kaspa, Toccata tracking, source monitoring, and protocol context. |
+| [OpenThymos](https://github.com/gryszzz/OpenThymos) | Experimental AI execution runtime for agents, tools, approvals, replay, and workflow control. |
+| [KasPilot](https://github.com/gryszzz/KasPilot) | Operations console concept for Kaspa mining, hardware, research, and fleet workflows. |
 
-## Kaspa Research Standard
+---
 
-I track claims through primary sources first:
+## Links
 
-- Rusty Kaspa PRs and branch hashes.
-- Kaspa KIPs and merge status.
-- Kaspa docs and research forum fingerprints.
-- TN10/TN12 testnet signals separated from mainnet activation claims.
-- Release artifacts, checksums, and compatibility workflows.
-
-The goal is simple: build fast, but keep the claims clean.
-
-## Active Links
-
+- Telegram: https://t.me/MrMiyahgi
+- Instagram: https://instagram.com/kaleiidosco
+- Email: gryszzz6@gmail.com
+- Gravatar: https://gravatar.com/anthonyleon3530
 - Kaspa skill release: https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/releases/latest
-- Toccata source snapshot: https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/blob/main/research-snapshots/toccata/latest.md
+- Toccata snapshot: https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/blob/main/research-snapshots/toccata/latest.md
 - Live docs: https://gryszzz.github.io/Kaspa-Ai-Agent-Skill/
 - Hugging Face: https://huggingface.co/spaces/grysz/thymos
+
+---
+
+Building systems, testing ideas, shipping experiments.
