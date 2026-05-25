@@ -34,21 +34,10 @@ I like building fast, learning in public, and connecting different worlds that u
 
 I’m into building useful systems from messy ideas.
 
-AI agents, crypto tooling, research automation, dev infrastructure, creative software, dashboards, scripts, experiments — whatever moves the idea closer to something real.
+AI agents, crypto tooling, research automation, dev infrastructure, creative software, dashboards, scripts, experiments  whatever moves the idea closer to something real.
 
 Not trying to fit into one niche.  
 Just building the stack piece by piece.
-
----
-
-## Things I’m exploring
-
-- AI agents that can use tools, remember context, and actually execute.
-- Research systems that organize scattered information into something usable.
-- Crypto-native infrastructure and protocol tooling.
-- Creative automation for music, edits, media, and internet-native projects.
-- Developer tools that make building faster and less chaotic.
-- Interfaces that feel clean, technical, and alive.
 
 ---
 
