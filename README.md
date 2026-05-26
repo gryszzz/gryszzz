@@ -7,11 +7,11 @@ building ,
   <a href="https://instagram.com/kaleiidosco">Instagram</a> •
   <a href="mailto:gryszzz6@gmail.com">Email</a> •
   <a href="https://gravatar.com/anthonyleon3530">Gravatar</a>
+  <a href="https://gravatar.com/anthonyleon3530](https://x.com/gryszzz">X</a>
+  
 </p>
 
 <p align="left">
-  <a href="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/releases/latest">
-    <img alt="Kaspa skill release" src="https://img.shields.io/github/v/release/gryszzz/Kaspa-Ai-Agent-Skill?label=Kaspa%20Skill">
   </a>
   <a href="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/actions/workflows/compatibility-matrix.yml">
     <img alt="Compatibility Matrix" src="https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/actions/workflows/compatibility-matrix.yml/badge.svg">
@@ -39,7 +39,6 @@ Just building the stack piece by piece.
 |---|---|
 | [Kaspa-Ai-Agent-Skill](https://github.com/gryszzz/Kaspa-Ai-Agent-Skill) | AI-agent research skill for Kaspa, Toccata tracking, source monitoring, and protocol context. |
 | [OpenThymos](https://github.com/gryszzz/OpenThymos) | Experimental AI execution runtime for agents, tools, approvals, replay, and workflow control. |
-| [KasPilot](https://github.com/gryszzz/KasPilot) | Operations console concept for Kaspa mining, hardware, research, and fleet workflows. |
 
 ---
 
@@ -49,10 +48,7 @@ Just building the stack piece by piece.
 - Instagram: https://instagram.com/kaleiidosco
 - Email: gryszzz6@gmail.com
 - Gravatar: https://gravatar.com/anthonyleon3530
-- Kaspa skill release: https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/releases/latest
-- Toccata snapshot: https://github.com/gryszzz/Kaspa-Ai-Agent-Skill/blob/main/research-snapshots/toccata/latest.md
-- Live docs: https://gryszzz.github.io/Kaspa-Ai-Agent-Skill/
-- Hugging Face: https://huggingface.co/spaces/grysz/thymos
+- X: https://x.com/gryszzz
 
 ---
 
