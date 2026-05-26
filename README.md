@@ -1,6 +1,6 @@
-# gryszzz
+# sz
 
-building , 
+building...
 
 <p align="left">
   <a href="https://t.me/MrMiyahgi">Telegram</a> •
@@ -40,16 +40,3 @@ Just building the stack piece by piece.
 | [Kaspa-Ai-Agent-Skill](https://github.com/gryszzz/Kaspa-Ai-Agent-Skill) | AI-agent research skill for Kaspa, Toccata tracking, source monitoring, and protocol context. |
 | [OpenThymos](https://github.com/gryszzz/OpenThymos) | Experimental AI execution runtime for agents, tools, approvals, replay, and workflow control. |
 
----
-
-## Links
-
-- Telegram: https://t.me/MrMiyahgi
-- Instagram: https://instagram.com/kaleiidosco
-- Email: gryszzz6@gmail.com
-- Gravatar: https://gravatar.com/anthonyleon3530
-- X: https://x.com/gryszzz
-
----
-
-Building systems, testing ideas, shipping experiments.
