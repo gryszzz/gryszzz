@@ -1,6 +1,6 @@
 # gryszzz
 
-building , learning in public, and connecting different worlds that usually stay separate.
+building , 
 
 <p align="left">
   <a href="https://t.me/MrMiyahgi">Telegram</a> •
@@ -27,9 +27,6 @@ building , learning in public, and connecting different worlds that usually stay
 ---
 
 ## About
-
-I’m into building useful systems from messy ideas.
-
 
 Not trying to fit into one niche.  
 Just building the stack piece by piece.
