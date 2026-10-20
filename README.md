@@ -35,13 +35,13 @@ Not everything here is production-ready. Some repositories are active research, 
 ### GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gryszzz&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;custom_title=GitHub%20Activity&amp;bg_color=0D1117&amp;title_color=82DEE8&amp;text_color=D0E0E7&amp;icon_color=82DEE8&amp;border_color=283846&amp;border_radius=12" alt="Live GitHub activity statistics for gryszzz" width="550" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gryszzz&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=GitHub%20Activity&amp;bg_color=0D1117&amp;title_color=82DEE8&amp;text_color=D0E0E7&amp;icon_color=82DEE8&amp;border_color=283846&amp;border_radius=12" alt="Live GitHub activity statistics for gryszzz" width="550" />
 </div>
 
 ### Languages across my public repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gryszzz&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;custom_title=Repository%20Languages&amp;bg_color=0D1117&amp;title_color=82DEE8&amp;text_color=D0E0E7&amp;border_color=283846&amp;border_radius=12" alt="Language distribution across public GitHub repositories" width="550" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gryszzz&amp;layout=normal&amp;langs_count=5&amp;size_weight=0.5&amp;count_weight=0.5&amp;custom_title=Repository%20Languages&amp;bg_color=0D1117&amp;title_color=82DEE8&amp;text_color=D0E0E7&amp;border_color=283846&amp;border_radius=12" alt="Language distribution across public GitHub repositories" width="550" />
 </div>
 
 ### Contribution history
